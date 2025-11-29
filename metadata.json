@@ -1,0 +1,7 @@
+{
+  "name": " AI Virtual Mouse",
+  "description": "Control a virtual mouse cursor using hand gestures via your webcam. Point with your index finger to move, and pinch with your middle finger to click.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
